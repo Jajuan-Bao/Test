@@ -14,3 +14,4 @@ double RandomDouble(double low, double high){
     double d=(double)rand()/(RAND_MAX+1);
     return (low+(high-low+1)*d);
 }
+//Add a new code line to see how to utilize a new branch.
